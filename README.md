@@ -1,13 +1,12 @@
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/> -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
 <h1 align="center">Abdusalomov Ozod</h1>
 <h3 align="center">Python Backend Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=slmvpy&style=flat-square"/>
 </p>
 
 ---
