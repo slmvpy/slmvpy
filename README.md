@@ -58,7 +58,7 @@ Digital parking control and monitoring backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=slmvpy&show_icons=true&theme=github_dark" height="170"/>  
 </p>
 
 ---
