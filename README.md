@@ -54,7 +54,9 @@ Digital parking control and monitoring backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
 ---
