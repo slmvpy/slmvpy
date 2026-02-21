@@ -22,17 +22,13 @@
 
 ## 📂 My Projects
 
-### 🎓 Online Course Platform
-Backend architecture for online learning system.
-
-🔗 Project URL: `LINK_HERE`
+### 🛒 100K Online Store
+Backend architecture for a scalable high-load e-commerce platform.
 
 ---
 
 ### 🚗 Parking Management System
 Digital parking control and monitoring backend.
-
-🔗 Project URL: `LINK_HERE`
 
 ---
 
