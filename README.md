@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 </p>
 
 <h1 align="center">Abdusalomov Ozod</h1>
